@@ -136,4 +136,12 @@ Example credentials from `src/data/users.js` (password stored as Base64):
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/26ce42ae-263f-43fc-b27c-baeabb132d8c" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/a076a749-4e3e-43b7-a3ea-8407f1da666b" />
+
+
+<img width="1920" height="1080" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/e7e5c9c3-f1fa-49bd-a97f-37b6e652ec87" />
 
